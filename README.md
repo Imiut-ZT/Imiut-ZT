@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Imiut</h1>
 <h3 align="left">A frontend developer from Seoul, South Korea.</h3>
 
-- 🔭 I’m currently working on **[@ziptoss](https://github.com/ziptoss)**
-
 - 🌱 I’m currently learning **modern ui/ux design, a something.**
 
 - 💬 Ask me about **react, php and graphics**
