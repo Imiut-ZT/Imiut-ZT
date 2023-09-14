@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react, php and graphics**
 
-- 📫 How to reach me **imiut@ziptoss.com**
+- 📫 How to reach me **imiut@mailplug.co.kr**
 
 - ⚡ Fun fact **i enjoy the car drive.**
 
